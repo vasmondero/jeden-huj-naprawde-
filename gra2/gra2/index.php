@@ -78,7 +78,18 @@
                     </div>
 
                     <div class="col-2" >
-                        <div class="row" style="border:groove ; border-color:rgb(90, 57, 14) ; height: 29px; background:gold;">waluta premium</div>
+                        <div class="row" style="border:groove ; border-color:rgb(90, 57, 14) ; height: 30px; background:gold;">waluta premium</div>
+
+                    </div>
+
+                    <div class="col-10" >  <div class="row">
+                        <img style= "border:groove ; border-color:rgb(90, 57, 14) ; width: 100%;  " src="mapa v3.png" >
+                      
+</div>
+
+                    </div>
+
+                    <div class="col-2">
                         <div class="row" style="border:groove ; border-color:rgb(90, 57, 14) ;  background:linear-gradient(rgb(90, 57, 14), #d69b57); ">
 
                         Budynek drwala, poziom <?php echo $v->buildingLVL("woodcutter"); ?> <br>
@@ -139,11 +150,7 @@
         
             
 
-                    <div class="col-9" >  <div class="row">
-                        <img style= "border:groove ; border-color: ; width: 100%;  " src="mapa v3.png" >
-                      
-
-                    </div> </div>
+                     </div>
                         
                    
 
