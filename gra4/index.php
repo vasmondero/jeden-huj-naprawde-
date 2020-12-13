@@ -133,9 +133,40 @@
                 <?php endif; ?>
             </div>
 
-                        <div class="row" style="border:groove ; border-color:rgb(90, 57, 14) ; height:   556px; background:linear-gradient(#d69b57,rgb(90, 57, 14))  ; ">Wojsko
-            
-                
+                        <div class="row" style="border:groove ; border-color:rgb(90, 57, 14) ; height:   556px; background:linear-gradient(#d69b57,rgb(90, 57, 14))  ; ">
+                        
+                        
+                        <div class="container">
+  <div class="row">
+    <div class="col-6 col-sm-3"><img src="miecz.png" style="height: 50px;"></div>
+    - 100
+    
+    <div class="w-100"></div>
+
+    <div class="col-6 col-sm-3"><img src="ryczerz.png" style="height: 50px;"></div>
+    - 10
+
+    <div class="w-100"></div>
+
+    <div class="col-6 col-sm-3"><img src="koń.png" style="height: 50px;"></div>
+    - 5
+
+    <div class="w-100"></div>
+
+    <div class="col-6 col-sm-3">COŚ</div>
+
+  
+</div>
+    
+  </div>
+</div>
+
+  </div>
+</div>
+  </div>
+</div>
+<div class="col-12">
+<div class="row"><img src="pasek.png" style= "height: 111px ; width: 100%">         
                         
                       
                         
